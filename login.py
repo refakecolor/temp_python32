@@ -5,5 +5,9 @@ def index():
 	return 'hello wolrd'
 def math():
 	return 'python'
+
 def detail():"
 	return 'mysql'
+
+c = 3
+
