@@ -11,3 +11,4 @@ def detail():"
 
 c = 3
 
+d = 4
