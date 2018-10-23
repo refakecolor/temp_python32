@@ -5,3 +5,5 @@ def index():
 	return 'hello wolrd'
 def math():
 	return 'python'
+
+c = 3
